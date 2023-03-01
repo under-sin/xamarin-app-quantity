@@ -1,0 +1,15 @@
+C:\program1\XamarinForms\AppQuantity\AppQuantity\AppQuantity\bin\Debug\netstandard2.0\AppQuantity.deps.json
+C:\program1\XamarinForms\AppQuantity\AppQuantity\AppQuantity\bin\Debug\netstandard2.0\AppQuantity.dll
+C:\program1\XamarinForms\AppQuantity\AppQuantity\AppQuantity\bin\Debug\netstandard2.0\AppQuantity.pdb
+C:\program1\XamarinForms\AppQuantity\AppQuantity\AppQuantity\obj\Debug\netstandard2.0\AppQuantity.csproj.AssemblyReference.cache
+C:\program1\XamarinForms\AppQuantity\AppQuantity\AppQuantity\obj\Debug\netstandard2.0\AppQuantity.GeneratedMSBuildEditorConfig.editorconfig
+C:\program1\XamarinForms\AppQuantity\AppQuantity\AppQuantity\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\program1\XamarinForms\AppQuantity\AppQuantity\AppQuantity\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\program1\XamarinForms\AppQuantity\AppQuantity\AppQuantity\obj\Debug\netstandard2.0\AppQuantity.AssemblyInfoInputs.cache
+C:\program1\XamarinForms\AppQuantity\AppQuantity\AppQuantity\obj\Debug\netstandard2.0\AppQuantity.AssemblyInfo.cs
+C:\program1\XamarinForms\AppQuantity\AppQuantity\AppQuantity\obj\Debug\netstandard2.0\AppQuantity.csproj.CoreCompileInputs.cache
+C:\program1\XamarinForms\AppQuantity\AppQuantity\AppQuantity\obj\Debug\netstandard2.0\XamlC.stamp
+C:\program1\XamarinForms\AppQuantity\AppQuantity\AppQuantity\obj\Debug\netstandard2.0\AppQuantity.dll
+C:\program1\XamarinForms\AppQuantity\AppQuantity\AppQuantity\obj\Debug\netstandard2.0\ref\AppQuantity.dll
+C:\program1\XamarinForms\AppQuantity\AppQuantity\AppQuantity\obj\Debug\netstandard2.0\AppQuantity.pdb
+C:\program1\XamarinForms\AppQuantity\AppQuantity\AppQuantity\obj\Debug\netstandard2.0\refint\AppQuantity.dll
